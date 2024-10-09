@@ -54,6 +54,9 @@ pip install -r requirements.txt
 To train the model:
 
 1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shivam-fibo/Imageify.git
+   ```
  
 2. Start the training process:
    ```bash
