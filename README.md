@@ -7,8 +7,12 @@ A SaaS application that transforms text descriptions into Notion-style illustrat
 
 This project is mainly inspired from [Generative Adversarial Text-to-Image Synthesis paper](https://arxiv.org/abs/1605.05396). We implemented this model using PyTorch. In this model we train a conditional generative adversarial network, conditioned on text captions, to generate images that correspond to the captions. The network architecture is shown below. This architecture is based on DCGAN. 
 
-<figure><img src='images/dcgan_network.png'></figure>
-Credits: [1]
+### DCGAN Network Architecture
+
+![DCGAN Network Architecture](https://github.com/Rakshith-Manandi/text-to-image-using-GAN/blob/master/images/dcgan_network.png)
+
+The architecture used for the GAN model.
+
 
 
 ## Features
