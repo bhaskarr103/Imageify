@@ -5,7 +5,7 @@ A SaaS application that transforms text descriptions into Notion-style illustrat
 
 ![Notion-Style Illustrations SaaS](https://github.com/user-attachments/assets/826e09bf-315c-4487-89cb-7039d3e18dbb)
 
-This project is mainly inspired from [Generative Adversarial Text-to-Image Synthesis paper](https://arxiv.org/abs/1605.05396). We implemented this model using PyTorch. In this model we train a conditional generative adversarial network, conditioned on text captions, to generate images that correspond to the captions. The network architecture is shown below. This architecture is based on DCGAN. 
+This project is mainly inspired by the [Generative Adversarial Text-to-Image Synthesis paper](https://arxiv.org/abs/1605.05396). We implemented this model using PyTorch. In this model, we train a conditional generative adversarial network, conditioned on text captions, to generate images that correspond to the captions. The network architecture is shown below. This architecture is based on DCGAN.
 
 ### DCGAN Network Architecture
 
